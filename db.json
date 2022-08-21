@@ -1,0 +1,74 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Justina",
+        "hospital":"Sakra",
+        "speciallisation":"Nephrology",
+        "salary": 2400000
+      },
+      {
+        "id": 2,
+        "name": "Aditya",
+        "hospital":"Manipal",
+        "speciallisation":"General",
+        "salary": 400000
+      },
+      {
+        "id": 3,
+        "name": "Kanav",
+        "hospital":"Gujarat",
+        "speciallisation":"Radiologist",
+        "salary": 200000
+      },
+      {
+        "id": 4,
+        "name": "Mahesh",
+        "hospital":"Dhule",
+        "speciallisation":"Cardiologist",
+        "salary": 2500000
+      },
+      {
+        "id": 5,
+        "name": "Akshay",
+        "hospital":"Nanded",
+        "speciallisation":"Phisiotherapist",
+        "salary": 100000
+      },
+      {
+        "id": 6,
+        "name": "Sanket",
+        "hospital":"Nagar",
+        "speciallisation":"General",
+        "salary": 2100000
+      },
+      {
+        "id": 7,
+        "name": "Vishal",
+        "hospital":"Nasik",
+        "speciallisation":"Nephrology",
+        "salary": 300000
+      },
+      {
+        "id": 8,
+        "name": "Dhiraj",
+        "hospital":"Dondaicha",
+        "speciallisation":"Gynocologist",
+        "salary": 1000000
+      },
+      {
+        "id": 9,
+        "name": "Meetesh",
+        "hospital":"Dhule",
+        "speciallisation":"Nephrology",
+        "salary": 300000
+      },
+      {
+        "id": 10,
+        "name": "Justina",
+        "hospital":"Sakra",
+        "speciallisation":"Nephrology",
+        "salary": 2400000
+      }
+    ]
+  }
